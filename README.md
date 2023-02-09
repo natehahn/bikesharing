@@ -40,7 +40,7 @@ This line graph shows the age of bike renters.  This product, suprisingly, is us
 
 ## Summary
 
-Visualizations are a powerful tool.  
+Visualizations are a powerful tools.  It will be best to explore the data in detail via the link above.  With the data that was provided we were able to show insightful information into how bike-sharing could profit as a business.  Other data that would be useful would be demographic data.  With that information you could determine what the age demographics were and where these individuals lived.  With that information you could determine whether this same concept that worked in NYC could be applied in Des Moines.  Another possible visualization could be a graph representing age and subsribers.  This could help determine whether the late 30's age group rents bikes based on a planned need or if it's more of a whim.
 
 
 
