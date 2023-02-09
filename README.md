@@ -10,5 +10,8 @@ The purpose of this analysis was to present share holders a clear proposal for a
 
 The following is a breakout of each of the visualizations that describe different variables related to total number of bikes rented, bike rentals by gender, days of the week bikes were rented and where the top rental sites were located.
 
+[An Internal Link](/guides/content/editing-an-existing-page)
+
+
 
 
